@@ -8,4 +8,4 @@ console.log(calculate(1, 2, "+"));
 const user = { name: "A", age: 10, id: 1 };
 console.log(user.name);
 
-export { }; // preventing "Cannot redeclare block-scoped variable 'user'"
+export {}; // preventing "Cannot redeclare block-scoped variable 'user'"
