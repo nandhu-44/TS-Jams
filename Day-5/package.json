@@ -1,0 +1,16 @@
+{
+  "name": "@n44/test-package",
+  "version": "0.2.0",
+  "description": "Test for typescript classes.",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "n44",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
