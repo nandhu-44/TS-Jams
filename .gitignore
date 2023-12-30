@@ -1,3 +1,4 @@
 *.js
 node_modules/
 commands.md
+tests/
